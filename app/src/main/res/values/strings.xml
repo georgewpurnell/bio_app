@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">George Purnell</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is George.
+    \n\nI want to learn Android.
+    \n\nMy plan is to work through some tutorials and build some sample apps.
+    \nIn the process I also need to learn Kotlin(Ok, I don\'t <b><i>need</i></b> to, but I want to).
+    \n\nHopefully after I work through all of the sample material I will be able to make some of my own apps.
+    \nWell....Let\'s get to work!!!\n\n</string>
+    <string name="image_2">Man With Afro</string>
+</resources>
